@@ -1,0 +1,11 @@
+.globalHeader{
+    width: 100%;
+    height: max-content;
+    display: grid;
+  }
+  .headerBackground{
+    width: calc(100% - margin);
+    height: 80px;
+    background-color: #000;
+    margin: 0 100px;
+  }
